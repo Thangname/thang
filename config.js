@@ -1,19 +1,22 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'No No',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu luôn ngại chi <3',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/thang.nguyenduc.9634340
+    introTitle: 'introTitle',
+    introDesc: `introDesc`,
+    btnIntro: 'btnIntro',
+    title: 'title',
+    desc: 'desc',
+    btnYes: 'btnYes',
+    btnNo: 'btnNo',
+    question:'question',
+    btnReply: 'btnReply',
+    reply: 'reply',
+    mess: 'mess',
+    messDesc: 'messDesc',
+    btnAccept: 'btnAccept',
+    messLink: 'messLink', //link fb
+    bgLink: 'https://thangname.github.io/tang-crush/img/bg.webp', //link ảnh nền
+    iputBgLink: 'https://thangname.github.io/tang-crush/img/iput-bg.jpg', //link iputBgLink
+    lookMeLink: 'https://thangname.github.io/tang-crush/img/lookMe.jpg', //link ảnh lookMe
+    soundLink: 'https://thangname.github.io/tang-crush/sound/sound.mp3', //link nhac
+    duckLink: 'https://thangname.github.io/tang-crush/sound/duck.mp3', //link aam thanh 1
+    swishLink: 'https://thangname.github.io/tang-crush/sound/Swish1.mp3', //link swish
 }
